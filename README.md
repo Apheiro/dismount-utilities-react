@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="250" src="./public/DismountUtility.svg" alt="conditional parent">
+	<img width="250" src="https://github.com/Apheiro/dismount-utilities-react/raw/main/public/DismountUtility.svg" alt="dismount-utility">
 </div>
 
 # Dismount-Utility-React
